@@ -1,12 +1,12 @@
 ﻿using AutoMapper;
+using ERPServer.Application.Features.Customers.CreateCustomer;
+using ERPServer.Domain.Entities;
 
-namespace ERPServer.Application.Mapping
+namespace ERPServer.Application.Mapping;
+public sealed class MappingProfile : Profile
 {
-    public sealed class MappingProfile : Profile
+    public MappingProfile()
     {
-        public MappingProfile()
-        {
-
-        }
+        CreateMap<CreateCustomerCommand, Customer>();
     }
 }

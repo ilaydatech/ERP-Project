@@ -16,31 +16,32 @@ import { SwalService } from '../../services/swal.service';
 })
 export class CustomersComponent implements OnInit {
   customers: CustomerModel[] = [];
-  search: string = "";
+  search:string = "";
 
   @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
+  @ViewChild("updateModalCloseBtn") updateModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
 
-  createModel: CustomerModel = new CustomerModel();
-  updateModel: CustomerModel = new CustomerModel();
+  createModel:CustomerModel = new CustomerModel();
+  updateModel:CustomerModel = new CustomerModel();
 
   constructor(
     private http: HttpService,
     private swal: SwalService
-  ) { }
+  ){}
 
   ngOnInit(): void {
     this.getAll();
   }
 
-  getAll() {
-    this.http.post<CustomerModel[]>("Customers/GetAll", {}, (res) => {
+  getAll(){
+    this.http.post<CustomerModel[]>("Customers/GetAll",{},(res)=> {
       this.customers = res;
     });
   }
 
-  create(form: NgForm) {
-    if (form.valid) {
-      this.http.post<string>("Customers/Create", this.createModel, (res) => {
+  create(form: NgForm){
+    if(form.valid){
+      this.http.post<string>("Customers/Create",this.createModel,(res)=> {
         this.swal.callToast(res);
         this.createModel = new CustomerModel();
         this.createModalCloseBtn?.nativeElement.click();
@@ -49,13 +50,26 @@ export class CustomersComponent implements OnInit {
     }
   }
 
-  deleteById(model: CustomerModel) {
-    this.swal.callSwal("Müşteri Sil?", `${model.name} müşterisini silmek istiyor musunuz?`, () => {
-      this.http.post<string>("Customers/DeleteById", { id: model.id }, (res) => {
+  deleteById(model: CustomerModel){
+    this.swal.callSwal("Müşteri Sil?",`${model.name} müşterisini silmek istiyor musunuz?`,()=> {
+      this.http.post<string>("Customers/DeleteById",{id: model.id},(res)=> {
         this.getAll();
-        this.swal.callToast(res, "info");
+        this.swal.callToast(res,"info");
       });
     })
   }
 
+  get(model: CustomerModel){
+    this.updateModel = {...model};
+  }
+
+  update(form: NgForm){
+    if(form.valid){
+      this.http.post<string>("Customers/Update",this.updateModel,(res)=> {
+        this.swal.callToast(res,"info");
+        this.updateModalCloseBtn?.nativeElement.click();
+        this.getAll();
+      });
+    }
+  }
 }

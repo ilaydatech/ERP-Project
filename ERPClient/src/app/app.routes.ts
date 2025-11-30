@@ -4,6 +4,7 @@ import { DepotsComponent } from './components/depots/depots.component';
 import { HomeComponent } from './components/home/home.component';
 import { LayoutsComponent } from './components/layouts/layouts.component';
 import { LoginComponent } from './components/login/login.component';
+import { ProductsComponent } from './components/products/products.component';
 import { Routes } from '@angular/router';
 import { inject } from '@angular/core';
 
@@ -28,6 +29,10 @@ export const routes: Routes = [
             {
                 path: "depots",
                 component: DepotsComponent
+            },
+            {
+                path: "products",
+                component: ProductsComponent
             }
         ]
     }

@@ -5,6 +5,8 @@ import { HomeComponent } from './components/home/home.component';
 import { LayoutsComponent } from './components/layouts/layouts.component';
 import { LoginComponent } from './components/login/login.component';
 import { ProductsComponent } from './components/products/products.component';
+import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
+import { RecipesComponent } from './components/recipes/recipes.component';
 import { Routes } from '@angular/router';
 import { inject } from '@angular/core';
 
@@ -33,6 +35,14 @@ export const routes: Routes = [
             {
                 path: "products",
                 component: ProductsComponent
+            },
+            {
+                path: "recipes",
+                component: RecipesComponent
+            },
+            {
+                path: "recipe-details/:id",
+                component: RecipeDetailsComponent
             }
         ]
     }

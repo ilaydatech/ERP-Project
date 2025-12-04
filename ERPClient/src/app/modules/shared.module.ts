@@ -4,23 +4,26 @@ import { FormValidateDirective } from 'form-validate-angular';
 import { FormsModule } from '@angular/forms';
 import { NgModule } from '@angular/core';
 import { SectionComponent } from '../components/section/section.component';
+import { TrCurrencyPipe } from 'tr-currency';
 
 @NgModule({
-  declarations: [
+  declarations: [    
   ],
   imports: [
     CommonModule,
-    BlankComponent,
+    BlankComponent, 
     SectionComponent,
     FormsModule,
     FormValidateDirective,
+    TrCurrencyPipe
   ],
   exports: [
     CommonModule,
-    BlankComponent,
+    BlankComponent, 
     SectionComponent,
     FormsModule,
     FormValidateDirective,
+    TrCurrencyPipe
   ]
 })
 export class SharedModule { }

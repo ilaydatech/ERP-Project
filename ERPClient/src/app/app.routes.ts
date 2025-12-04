@@ -4,6 +4,7 @@ import { DepotsComponent } from './components/depots/depots.component';
 import { HomeComponent } from './components/home/home.component';
 import { LayoutsComponent } from './components/layouts/layouts.component';
 import { LoginComponent } from './components/login/login.component';
+import { OrdersComponent } from './components/orders/orders.component';
 import { ProductsComponent } from './components/products/products.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
@@ -43,6 +44,10 @@ export const routes: Routes = [
             {
                 path: "recipe-details/:id",
                 component: RecipeDetailsComponent
+            },
+            {
+                path: "orders",
+                component: OrdersComponent
             }
         ]
     }

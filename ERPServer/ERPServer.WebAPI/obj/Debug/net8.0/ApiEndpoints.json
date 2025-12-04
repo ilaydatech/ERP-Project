@@ -144,6 +144,70 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
+    "Method": "Create",
+    "RelativePath": "api/Orders/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Orders.CreateOrder.CreateOrderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Orders/DeleteById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Orders.DeleteOrderById.DeleteOrderByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
+    "Method": "GetAll",
+    "RelativePath": "api/Orders/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Orders.GetAllOrder.GetAllOrderQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
+    "Method": "Update",
+    "RelativePath": "api/Orders/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Orders.UpdateOrder.UpdateOrderCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ERPServer.WebAPI.Controllers.ProductsController",
     "Method": "Create",
     "RelativePath": "api/Products/Create",

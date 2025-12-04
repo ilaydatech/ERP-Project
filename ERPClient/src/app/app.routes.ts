@@ -8,6 +8,7 @@ import { OrdersComponent } from './components/orders/orders.component';
 import { ProductsComponent } from './components/products/products.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
+import { RequirementsPlanningComponent } from './components/requirements-planning/requirements-planning.component';
 import { Routes } from '@angular/router';
 import { inject } from '@angular/core';
 
@@ -15,6 +16,11 @@ export const routes: Routes = [
     {
         path: "login",
         component: LoginComponent
+    },
+    {
+        path: "requirements-planning/:orderId",
+        component: RequirementsPlanningComponent,
+        canActivate: [()=> inject(AuthService).isAuthenticated()]
     },
     {
         path: "",

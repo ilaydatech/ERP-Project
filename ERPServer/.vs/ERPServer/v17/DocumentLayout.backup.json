@@ -3,156 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\migrations\\20251203125706_mg10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\migrations\\20251203125706_mg10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\configurations\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\orderdetailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\erpserver.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\erpserver.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\updateorder\\updateordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\updateorder\\updateordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\createorder\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\createorder\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\dtos\\orderdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\getallorder\\getallorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\getallorder\\getallorderqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\getallorder\\getallorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\getallorder\\getallorderquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\deleteorderbyid\\deleteorderbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\deleteorderbyid\\deleteorderbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\deleteorderbyid\\deleteorderbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\deleteorderbyid\\deleteorderbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\repositories\\orderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\repositories\\iorderdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\enums\\orderstatusenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\enums\\producttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\enums\\producttypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\getrecipebyidwithdetails\\getrecipebyidwithdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\getrecipebyidwithdetails\\getrecipebyidwithdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\getrecipebyidwithdetails\\getrecipebyidwithdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\getrecipebyidwithdetails\\getrecipebyidwithdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.webapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\recipescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\updaterecipedetail\\updaterecipedetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\updaterecipedetail\\updaterecipedetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\updaterecipedetail\\updaterecipedetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\updaterecipedetail\\updaterecipedetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\deleterecipedetailbyid\\deleterecipedetailbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\deleterecipedetailbyid\\deleterecipedetailbyidcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\createrecipedetail\\createrecipedetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\createrecipedetail\\createrecipedetailcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\deleterecipedetailbyid\\deleterecipedetailbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\deleterecipedetailbyid\\deleterecipedetailbyidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipedetails\\createrecipedetail\\createrecipedetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipedetails\\createrecipedetail\\createrecipedetailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\recipes\\createrecipe\\createrecipecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\recipes\\createrecipe\\createrecipecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.webapi\\controllers\\recipedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{569A244C-91CB-45F5-A1EA-AFF0D78AB5FB}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\recipedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\migrations\\20251203115610_mg9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\migrations\\20251203115610_mg9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\migrations\\20251203093424_mg8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\migrations\\20251203093424_mg8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\orders\\requirementsplanningbyorderid\\requirementsplanningbyorderidcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -162,468 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:46:19.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Dtos\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Dtos\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Dtos\\ProductDto.cs*",
+              "RelativeToolTip": "ERPServer.Domain\\Dtos\\ProductDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:45:29.032Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251203125706_mg10.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203125706_mg10.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20251203125706_mg10.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203125706_mg10.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20251203125706_mg10.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "RequirementsPlanningByOrderIdCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandResponse.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandResponse.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandResponse.cs*",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandResponse.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T12:57:06.27Z",
+              "WhenOpened": "2025-12-04T09:44:28.247Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "20251203115610_mg9.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203115610_mg9.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20251203115610_mg9.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203115610_mg9.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20251203115610_mg9.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T11:56:11.075Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrderConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\OrderConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:30:20.33Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OrderDetailConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\OrderDetailConfiguration.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\OrderDetailConfiguration.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\OrderDetailConfiguration.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\OrderDetailConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "RequirementsPlanningByOrderIdCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs*",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommandHandler.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:31:13.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderDetail.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\OrderDetail.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\OrderDetail.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\OrderDetail.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\OrderDetail.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:27:57.815Z"
+              "WhenOpened": "2025-12-04T09:43:08.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Order.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Order.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\Order.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBwAAAABAAAAAAAAAA==",
+              "Title": "RequirementsPlanningByOrderIdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs*",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\RequirementsPlanningByOrderId\\RequirementsPlanningByOrderIdCommand.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:27:30.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ERPServer.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\ERPServer.Application.csproj",
-              "RelativeDocumentMoniker": "ERPServer.Application\\ERPServer.Application.csproj",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\ERPServer.Application.csproj",
-              "RelativeToolTip": "ERPServer.Application\\ERPServer.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-02T18:35:38.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:39:04.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommandHandler.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:12:27.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateOrderCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\UpdateOrder\\UpdateOrderCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:12:06.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateOrderCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommandHandler.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABwAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:09:28.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CreateOrderCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\CreateOrder\\CreateOrderCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:09:18.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:14:55.868Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "OrderDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Dtos\\OrderDetailDto.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Dtos\\OrderDetailDto.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Dtos\\OrderDetailDto.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Dtos\\OrderDetailDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:14:17.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GetAllOrderQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQueryHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQueryHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQueryHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:11:37.356Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetAllOrderQuery.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQuery.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQuery.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQuery.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\GetAllOrder\\GetAllOrderQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:11:20.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "DeleteOrderByIdCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommandHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:10:30.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DeleteOrderByIdCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Orders\\DeleteOrderById\\DeleteOrderByIdCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T10:10:18.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "20251203093424_mg8.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203093424_mg8.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20251203093424_mg8.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251203093424_mg8.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20251203093424_mg8.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:34:24.866Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:33:13.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "OrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\OrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\OrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\OrderDetailRepository.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\OrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:32:45.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:31:34.015Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Repositories\\IOrderRepository.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IOrderRepository.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Repositories\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:29:39.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "IOrderDetailRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IOrderDetailRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Repositories\\IOrderDetailRepository.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IOrderDetailRepository.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Repositories\\IOrderDetailRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:29:08.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "OrderStatusEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Enums\\OrderStatusEnum.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Enums\\OrderStatusEnum.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Enums\\OrderStatusEnum.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Enums\\OrderStatusEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:28:20.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ProductTypeEnum.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Enums\\ProductTypeEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T09:19:32.921Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "GetRecipeByIdWithDetailsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQueryHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQueryHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQueryHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.796Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "GetRecipeByIdWithDetailsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQuery.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQuery.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQuery.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\GetRecipeByIdWithDetails\\GetRecipeByIdWithDetailsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "RecipeDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\RecipeDetailsController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\RecipeDetailsController.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\RecipeDetailsController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\RecipeDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "RecipesController.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\RecipesController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\RecipesController.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\RecipesController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\RecipesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:41.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "UpdateRecipeDetailCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateRecipeDetailCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\UpdateRecipeDetail\\UpdateRecipeDetailCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.732Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DeleteRecipeDetailByIdCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "CreateRecipeDetailCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DeleteRecipeDetailByIdCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\DeleteRecipeDetailById\\DeleteRecipeDetailByIdCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:40.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CreateRecipeDetailCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\RecipeDetails\\CreateRecipeDetail\\CreateRecipeDetailCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-02T18:35:39.36Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CreateRecipeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Recipes\\CreateRecipe\\CreateRecipeCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Recipes\\CreateRecipe\\CreateRecipeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Recipes\\CreateRecipe\\CreateRecipeCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Recipes\\CreateRecipe\\CreateRecipeCommandHandler.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T07:37:38.777Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Recipe.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Recipe.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Recipe.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Recipe.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\Recipe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T15:17:18.624Z"
+              "WhenOpened": "2025-12-04T07:31:22.015Z",
+              "EditorCaption": ""
             }
           ]
         },

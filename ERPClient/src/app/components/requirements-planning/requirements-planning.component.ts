@@ -1,5 +1,7 @@
+import { ActivatedRoute } from '@angular/router';
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
+import { HttpService } from '../../services/http.service';
 import { RequirementsPlanningModel } from '../../models/requirements-planning.model';
 
 @Component({
@@ -11,4 +13,21 @@ import { RequirementsPlanningModel } from '../../models/requirements-planning.mo
 })
 export class RequirementsPlanningComponent {
   data: RequirementsPlanningModel = new RequirementsPlanningModel();
+  orderId: string = "";
+
+  constructor(
+    private activated: ActivatedRoute,
+    private http: HttpService
+  ) {
+    this.activated.params.subscribe(res => {
+      this.orderId = res["orderId"];
+      this.get();
+    });
+  }
+
+  get() {
+    this.http.post<RequirementsPlanningModel>("Orders/RequirementsPlanningByOrderId", { orderId: this.orderId }, res => {
+      this.data = res;
+    });
+  }
 }

@@ -193,6 +193,22 @@
   },
   {
     "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
+    "Method": "RequirementsPlanningByOrderId",
+    "RelativePath": "api/Orders/RequirementsPlanningByOrderId",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Orders.RequirementsPlanningByOrderId.RequirementsPlanningByOrderIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
     "Method": "Update",
     "RelativePath": "api/Orders/Update",
     "HttpMethod": "POST",

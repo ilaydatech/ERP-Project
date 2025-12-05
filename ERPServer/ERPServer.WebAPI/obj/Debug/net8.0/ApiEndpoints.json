@@ -144,6 +144,70 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ERPServer.WebAPI.Controllers.InvoicesController",
+    "Method": "Create",
+    "RelativePath": "api/Invoices/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Invoices.CreateInvoice.CreateInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.InvoicesController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Invoices/DeleteById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Invoices.DeleteInvoiceById.DeleteInvoiceByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.InvoicesController",
+    "Method": "GetAll",
+    "RelativePath": "api/Invoices/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Invoices.GetAllInvoice.GetAllInvoiceQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.InvoicesController",
+    "Method": "Update",
+    "RelativePath": "api/Invoices/Update",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Invoices.UpdateInvoice.UpdateInvoiceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ERPServer.WebAPI.Controllers.OrdersController",
     "Method": "Create",
     "RelativePath": "api/Orders/Create",

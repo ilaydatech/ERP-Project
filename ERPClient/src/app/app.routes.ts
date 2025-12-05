@@ -6,6 +6,7 @@ import { InvoicesComponent } from './components/invoices/invoices.component';
 import { LayoutsComponent } from './components/layouts/layouts.component';
 import { LoginComponent } from './components/login/login.component';
 import { OrdersComponent } from './components/orders/orders.component';
+import { ProductionsComponent } from './components/productions/productions.component';
 import { ProductsComponent } from './components/products/products.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
@@ -21,12 +22,12 @@ export const routes: Routes = [
     {
         path: "requirements-planning/:orderId",
         component: RequirementsPlanningComponent,
-        canActivate: [()=> inject(AuthService).isAuthenticated()]
+        canActivate: [() => inject(AuthService).isAuthenticated()]
     },
     {
         path: "",
         component: LayoutsComponent,
-        canActivateChild: [()=> inject(AuthService).isAuthenticated()],
+        canActivateChild: [() => inject(AuthService).isAuthenticated()],
         children: [
             {
                 path: "",
@@ -59,6 +60,10 @@ export const routes: Routes = [
             {
                 path: "invoices/:type",
                 component: InvoicesComponent
+            },
+            {
+                path: "productions",
+                component: ProductionsComponent
             }
         ]
     }

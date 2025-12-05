@@ -26,19 +26,19 @@ export class OrdersComponent {
   products: ProductModel[] = [];
   createDetail: OrderDetailModel = new OrderDetailModel();
   updateDetail: OrderDetailModel = new OrderDetailModel();
-  search:string = "";
+  search: string = "";
 
   @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
   @ViewChild("updateModalCloseBtn") updateModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
 
-  createModel:OrderModel = new OrderModel();
-  updateModel:OrderModel = new OrderModel();
+  createModel: OrderModel = new OrderModel();
+  updateModel: OrderModel = new OrderModel();
 
   constructor(
     private http: HttpService,
     private swal: SwalService,
     private date: DatePipe
-  ){
+  ) {
     this.createModel.date = this.date.transform(new Date(), "yyyy-MM-dd") ?? "";
     this.createModel.deliveryDate = this.date.transform(new Date(), "yyyy-MM-dd") ?? "";
   }
@@ -49,27 +49,27 @@ export class OrdersComponent {
     this.getAllCustomers();
   }
 
-  getAll(){
-    this.http.post<OrderModel[]>("Orders/GetAll",{},(res)=> {
+  getAll() {
+    this.http.post<OrderModel[]>("Orders/GetAll", {}, (res) => {
       this.orders = res;
     });
   }
 
-  getAllProducts(){
-    this.http.post<ProductModel[]>("Products/GetAll",{},(res)=> {
+  getAllProducts() {
+    this.http.post<ProductModel[]>("Products/GetAll", {}, (res) => {
       this.products = res;
     });
   }
 
-  getAllCustomers(){
-    this.http.post<CustomerModel[]>("Customers/GetAll",{},(res)=> {
+  getAllCustomers() {
+    this.http.post<CustomerModel[]>("Customers/GetAll", {}, (res) => {
       this.customers = res;
     });
   }
 
-  addDetail(){
-    const product = this.products.find(p=> p.id == this.createDetail.productId);
-    if(product){
+  addDetail() {
+    const product = this.products.find(p => p.id == this.createDetail.productId);
+    if (product) {
       this.createDetail.product = product;
     }
 
@@ -77,9 +77,9 @@ export class OrdersComponent {
     this.createDetail = new OrderDetailModel();
   }
 
-  addUpdateDetail(){
-    const product = this.products.find(p=> p.id == this.updateDetail.productId);
-    if(product){
+  addUpdateDetail() {
+    const product = this.products.find(p => p.id == this.updateDetail.productId);
+    if (product) {
       this.updateDetail.product = product;
     }
 
@@ -87,17 +87,17 @@ export class OrdersComponent {
     this.updateDetail = new OrderDetailModel();
   }
 
-  removeDetail(index:number){
-    this.createModel.details.splice(index,1);
+  removeDetail(index: number) {
+    this.createModel.details.splice(index, 1);
   }
 
-  removeUpdateDetail(index:number){
-    this.updateModel.details.splice(index,1);
+  removeUpdateDetail(index: number) {
+    this.updateModel.details.splice(index, 1);
   }
 
-  create(form: NgForm){
-    if(form.valid){
-      this.http.post<string>("Orders/Create",this.createModel,(res)=> {
+  create(form: NgForm) {
+    if (form.valid) {
+      this.http.post<string>("Orders/Create", this.createModel, (res) => {
         this.swal.callToast(res);
         this.createModel = new OrderModel();
         this.createModel.date = this.date.transform(new Date(), "yyyy-MM-dd") ?? "";
@@ -109,23 +109,23 @@ export class OrdersComponent {
     }
   }
 
-  deleteById(model: OrderModel){    
-    this.swal.callSwal("Siparişi Sil?",`${model.customer.name} - ${model.number} numaralı siparişi silmek istiyor musunuz?`,()=> {
-      this.http.post<string>("Orders/DeleteById",{id: model.id},(res)=> {
+  deleteById(model: OrderModel) {
+    this.swal.callSwal("Siparişi Sil?", `${model.customer.name} - ${model.number} numaralı siparişi silmek istiyor musunuz?`, () => {
+      this.http.post<string>("Orders/DeleteById", { id: model.id }, (res) => {
         this.getAll();
-        this.swal.callToast(res,"info");
+        this.swal.callToast(res, "info");
       });
     })
   }
 
-  get(model: OrderModel){
-    this.updateModel = {...model};
+  get(model: OrderModel) {
+    this.updateModel = { ...model };
   }
 
-  update(form: NgForm){
-    if(form.valid){
-      this.http.post<string>("Orders/Update",this.updateModel,(res)=> {
-        this.swal.callToast(res,"info");
+  update(form: NgForm) {
+    if (form.valid) {
+      this.http.post<string>("Orders/Update", this.updateModel, (res) => {
+        this.swal.callToast(res, "info");
         this.updateModalCloseBtn?.nativeElement.click();
         this.getAll();
       });

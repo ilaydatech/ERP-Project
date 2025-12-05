@@ -3,56 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\repositories\\productionrepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\repositories\\productionrepositor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.infrastructure\\configurations\\productionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B55F82D3-F0A8-40C9-92EC-0D60738E18C5}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\productionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\repositories\\iproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\repositories\\iproductionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\productions\\getallproduction\\getallproductionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\productions\\getallproduction\\getallproductionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\updateinvoice\\updateinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\getallinvoice\\getallinvoicequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\getallinvoice\\getallinvoicequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\productions\\createproduction\\createproductioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\productions\\createproduction\\createproductioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,171 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251205093838_mg15.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20251205093838_mg15.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:38:38.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductionRepositor.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\ProductionRepositor.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\ProductionRepositor.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\ProductionRepositor.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\ProductionRepositor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:37:24.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:36:33.144Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductionConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\ProductionConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:36:12.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IProductionRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IProductionRepository.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Repositories\\IProductionRepository.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Repositories\\IProductionRepository.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Repositories\\IProductionRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:35:30.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StockMovement.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\StockMovement.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\StockMovement.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\StockMovement.cs",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\StockMovement.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:34:53.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "Production.cs",
               "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
               "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Production.cs",
               "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
               "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T09:34:24.187Z",
+              "WhenOpened": "2025-12-05T10:29:56.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwEkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GetAllProductionQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:39:36.077Z",
+              "WhenOpened": "2025-12-05T10:29:20.544Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateInvoiceCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CreateProductionCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:33:32.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CreateInvoiceCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAUwC0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:34:15.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateInvoiceCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommandHandler.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwEoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:35:56.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateInvoiceCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\UpdateInvoice\\UpdateInvoiceCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:35:40.795Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GetAllInvoiceQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\GetAllInvoice\\GetAllInvoiceQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T07:35:02.349Z",
+              "WhenOpened": "2025-12-05T10:28:55.923Z",
               "EditorCaption": ""
             }
           ]

@@ -288,6 +288,54 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ERPServer.WebAPI.Controllers.ProductionsController",
+    "Method": "Create",
+    "RelativePath": "api/Productions/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Productions.CreateProduction.CreateProductionCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.ProductionsController",
+    "Method": "DeleteById",
+    "RelativePath": "api/Productions/DeleteById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Productions.DeleteProductionById.DeleteProductionByIdCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ERPServer.WebAPI.Controllers.ProductionsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Productions/GetAll",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ERPServer.Application.Features.Productions.GetAllProduction.GetAllProductionQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ERPServer.WebAPI.Controllers.ProductsController",
     "Method": "Create",
     "RelativePath": "api/Products/Create",

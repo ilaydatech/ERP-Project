@@ -5,6 +5,12 @@ Proje, **Angular ve .NET ** teknolojileri temel alınarak; güçlü, ölçeklene
 
 Proje geliştirme sürecinde **Clean Architecture**, **CQRS**, **Repository Pattern** ve **Result Pattern** gibi modern yazılım mimarileri ve tasarım kalıpları aktif olarak uygulanmıştır.
 
+Projem, kapsamlı ve tam fonksiyonel bir ERP projesidir. Kullanıcı, kendi işletmesi için müşteri, depo, ürün, reçete, sipariş, fatura ve üretim bilgilerini bu panel üzerinden takip edebilmektedir. Kullanıcı, müşteri ve depo bilgilerini girdikten sonra mamül ve yarı mamül şeklinde ürünler ekleyebilir. Ardından, mamül ürünün ihtiyaç duyduğu malzemeleri yarı mamül olarak tanımlayıp uygun reçete oluşturabilir.
+
+Eklediği siparişe ait ihtiyaç planlaması oluşturabilir, ürettireceği ürüne ait gerekli malzemeleri (yarı mamülleri) görüntüleyebilir ve üretim bölümünden bu malzemeleri ürettirebilir. 
+
+Aynı zamanda alış ve satış faturası oluşturabilir, ürünler bölümünden ise her bir üründen stokta kaç adet kaldığını takip edebilir.
+
 <img width="1897" height="863" alt="Ekran görüntüsü 2025-12-08 113031" src="https://github.com/user-attachments/assets/9949d1b7-2c75-48b8-8f5d-80e6a344d8db" />
 
 <img width="1915" height="867" alt="Ekran görüntüsü 2025-12-08 113108" src="https://github.com/user-attachments/assets/388a6503-e511-4260-9136-29e2e1e93709" />

@@ -6997,6 +6997,11 @@
               "$ref": "#/components/schemas/InvoiceDetailDto"
             },
             "nullable": true
+          },
+          "orderId": {
+            "type": "string",
+            "format": "uuid",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -7359,10 +7364,6 @@
         "type": "object",
         "properties": {
           "id": {
-            "type": "string",
-            "format": "uuid"
-          },
-          "customerId": {
             "type": "string",
             "format": "uuid"
           },

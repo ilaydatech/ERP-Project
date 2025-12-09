@@ -1,0 +1,19 @@
+/* HOVER – sadece mouse üzerine gelince */
+.nav-sidebar .nav-link:hover {
+    background-color: #3B82F6 !important;
+    color: #ffffff !important;
+}
+
+.nav-sidebar .nav-link:hover i {
+    color: #ffffff !important;
+}
+
+/* ACTIVE – tıklanınca seçili öğe mavi olsun */
+.nav-sidebar .nav-link.active {
+    background-color: #2563EB !important;
+    color: #ffffff !important;
+}
+
+.nav-sidebar .nav-link.active i {
+    color: #ffffff !important;
+}

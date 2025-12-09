@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\productions\\getallproduction\\getallproductionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\productions\\getallproduction\\getallproductionqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\invoices\\createinvoice\\createinvoicecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BDE9AF0-095D-45D7-A78F-20B303FB5AD0}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\production.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\ilayd\\desktop\\erp\\erpserver\\erpserver.application\\features\\productions\\createproduction\\createproductioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F46262B2-3D29-4429-9299-ED549B8EF7DB}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\features\\productions\\createproduction\\createproductioncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,8 +21,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 75,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,42 +30,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Production.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
-              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Production.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs*",
-              "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "CreateInvoiceCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs*",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommandHandler.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T10:29:56.69Z",
+              "WhenOpened": "2025-12-08T08:21:09.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GetAllProductionQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Productions\\GetAllProduction\\GetAllProductionQueryHandler.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAhwBEAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateInvoiceCommand.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "RelativeToolTip": "ERPServer.Application\\Features\\Invoices\\CreateInvoice\\CreateInvoiceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T10:29:20.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T08:20:19.46Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateProductionCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
-              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
-              "RelativeToolTip": "ERPServer.Application\\Features\\Productions\\CreateProduction\\CreateProductionCommandHandler.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAYwF8AAAABAAAAAAAAAA==",
+              "Title": "Production.cs",
+              "DocumentMoniker": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Production.cs",
+              "ToolTip": "C:\\Users\\ilayd\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Production.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Production.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T10:28:55.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-08T08:09:20.809Z"
             }
           ]
         },

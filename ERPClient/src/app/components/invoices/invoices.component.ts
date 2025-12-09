@@ -9,6 +9,7 @@ import { InvoiceDetailModel } from '../../models/invoice-detail.model';
 import { InvoiceModel } from '../../models/invoice.model';
 import { InvoicePipe } from '../../pipes/invoice.pipe';
 import { NgForm } from '@angular/forms';
+import { OrderModel } from '../../models/order.model';
 import { ProductModel } from '../../models/product.model';
 import { SharedModule } from '../../modules/shared.module';
 import { SwalService } from '../../services/swal.service';
@@ -31,6 +32,8 @@ export class InvoicesComponent {
   search:string = "";
   type: number = 1;
   typeName: string = "Alış";
+  orders: OrderModel[] = [];
+  customerOrders: OrderModel[] = [];
 
   @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
   @ViewChild("updateModalCloseBtn") updateModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
@@ -57,6 +60,7 @@ export class InvoicesComponent {
       this.getAllProducts();
       this.getAllCustomers();
       this.getAllDepots();
+      this.getAllOrders();
     })    
   }
 
@@ -81,6 +85,12 @@ export class InvoicesComponent {
   getAllDepots(){
     this.http.post<DepotModel[]>("Depots/GetAll",{},(res)=> {
       this.depots = res;
+    });
+  }
+
+  getAllOrders(){
+    this.http.post<OrderModel[]>("Orders/GetAll",{},(res)=> {
+      this.orders = res.filter(p=> p.status.value < 3);
     });
   }
 
@@ -157,5 +167,9 @@ export class InvoicesComponent {
         this.getAll();
       });
     }
+  }
+
+  setSelectedCustomerOrders(){
+    this.customerOrders = this.orders.filter(p=> p.customerId == this.createModel.customerId);
   }
 }

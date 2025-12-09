@@ -19,5 +19,6 @@ export class MainSidebarComponent {
 
   constructor(
     public auth: AuthService
-  ){}
+  ) { }
+
 }

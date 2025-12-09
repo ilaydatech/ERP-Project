@@ -76,7 +76,9 @@ export const Menus: MenuModel[] = [
                 url: "/invoices/selling",
                 isTitle: false,
                 subMenus: []
-            },
+            }
+        ]
+    },
     {
         name: "Üretim",
         icon: "far fa-solid fa-screwdriver-wrench",
@@ -84,6 +86,4 @@ export const Menus: MenuModel[] = [
         isTitle: false,
         subMenus: []
     },
-        ]
-    }
 ]
